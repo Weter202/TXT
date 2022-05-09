@@ -1,1 +1,2 @@
-
+1) When press 'Create account' goes to Error
+2) Icon 'Main menu' not green but red
